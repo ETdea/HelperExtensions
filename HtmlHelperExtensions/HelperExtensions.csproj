@@ -70,6 +70,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Ajax\BeginActionLink.cs" />
     <Compile Include="Html\BeginActionLink.cs" />
     <Compile Include="MvcLink.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
